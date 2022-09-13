@@ -1,3 +1,4 @@
+myrepo http://39.106.229.111:8081/artifactory/api/conan/MyRepo
 cura https://ultimaker.jfrog.io/artifactory/api/conan/cura-internal True
 cura-ce  https://ultimaker.jfrog.io/artifactory/api/conan/cura-community True
 conan-center https://center.conan.io True
